@@ -2,7 +2,7 @@
 Material Oficina Bootcamp Web App Python
 - [Acessar MATERIAL PDF](https://github.com/massakiigarashi2/StreamlitWebApp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Framework%20Strealit%20Python%20-%20versao1.pdf)
 ## Exemplo 1:
-$x ∈ [-5, 5]$
+$x ∈ [5, 5]$
 
 ## Exemplo 2:
 $\sqrt{3x-1}+(1+x)^2$
